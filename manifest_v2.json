@@ -1,0 +1,60 @@
+{
+  "item": {
+    "id": "com.h.mrckmf",
+    "restype": "quick_app",
+    "name": "名人重开",
+    "description": "名人重开模拟器开局一个普通人能不能当上名人呢",
+    "preview": [
+      "xiaomi_band_10-2026-07-20-21-56-23.png",
+      "xiaomi_band_10-2026-07-20-21-56-29.png",
+      "xiaomi_band_10-2026-07-20-21-56-37.png",
+      "xiaomi_band_10-2026-07-20-21-57-07.png",
+      "xiaomi_band_pro-2026-07-20-21-57-42.png",
+      "xiaomi_band_pro-2026-07-20-21-57-49.png",
+      "xiaomi_band_pro-2026-07-20-21-58-08.png"
+    ],
+    "icon": "celebrity-logo.png",
+    "cover": "名人重开横版宣传图.png",
+    "author": [
+      {
+        "name": "号",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "shopping-cart",
+      "title": "赞助链接",
+      "url": "https://afdian.com/a/velabyh"
+    },
+    {
+      "icon": "link-simple",
+      "title": "网站（激活之前购买看完教程后买）",
+      "url": "https://an.001155.top/"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "com.h.mrckmf.release.1.0.0.rpk"
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "com.h.mrckmf.release.1.0.0.rpk"
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "com.h.mrckmf.release.1.0.0.rpk"
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "com.h.mrckmf.release.1.0.0.rpk"
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "com.h.mrckmf.release.1.0.0.rpk"
+    }
+  },
+  "ext": {}
+}
